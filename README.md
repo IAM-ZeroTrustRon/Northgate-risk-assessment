@@ -24,12 +24,28 @@ It uses **NIST SP 800-30 Rev. 1** as the assessment methodology, frames every fi
 | You are… | Read this |
 |---|---|
 | **Non-technical — clinic administrator, practice manager, hiring manager** | [`EXECUTIVE-OVERVIEW.md`](EXECUTIVE-OVERVIEW.md) — standalone, no jargon, no citations |
-| **Skimming in five minutes** | [`01-risk-assessment/risk-register.md`](01-risk-assessment/risk-register.md) |
+| **Approving priorities, owners and treatment** | [Five management priorities](01-risk-assessment/management-priorities.md) — decision view of all twelve risks, with required closure evidence |
+| **Checking what was actually assessed** | [Assessment basis](01-risk-assessment/assessment-basis.md) — scenario assumptions, external references and unverified projected outcomes |
+| **Skimming in five minutes** | [`docs/risk-register.md`](docs/risk-register.md) |
 | **Assessing depth of regulatory knowledge** | [`02-framework-crosswalk/hipaa-hitech-hitrust-nist-mapping.md`](02-framework-crosswalk/hipaa-hitech-hitrust-nist-mapping.md) |
 | **Technical — you want to probe the reasoning** | [`TECHNICAL-DEEP-DIVE.md`](TECHNICAL-DEEP-DIVE.md) |
 | **A clinic administrator asking "what do I do Monday?"** | [`05-remediation/remediation-roadmap.md`](05-remediation/remediation-roadmap.md) |
 
 ---
+
+## Five-risk management summary
+
+Five decision groups cover the existing twelve risks. They are not five new risks or replacement scores. Owners are proposed accountable roles; implementation and remaining risk are unverified.
+
+| What needs attention | Detailed risks | Proposed owner | Treatment | Evidence demonstrating improvement |
+|---|---|---|---|---|
+| Protect staff identities and accountable access | R-01, R-03, R-08, R-09 | Practice administrator with IT/HR | Mitigate | MFA denial test; named-account inventory; leaver/mover records; dated EHR review |
+| Establish current risk governance and appropriate vendor/record handling | R-02, R-06, R-12 | Practice administrator with clinical/privacy/legal reviewers | Mitigate | Validated scope and approved treatment plan; applicability determination; reviewed vendor agreements |
+| Protect information during routine clinical work | R-04, R-07, R-11 | Designated privacy lead with IT/office manager | Mitigate | Encryption/key-recovery status; privacy walkthrough; recipient checks and release record |
+| Separate clinical systems from guest and facilities devices | R-05 | IT service owner | Mitigate | Approved network flows; unauthorized-path denial tests; legitimate workflow checks |
+| Prove clinical service recovery | R-10 | Practice administrator with IT/clinical lead | Mitigate | Timed restore, integrity/usability checks, clinical fallback and reconciliation evidence |
+
+[Ownership, proposed targets and closure decisions](01-risk-assessment/management-priorities.md) · [Assessment basis](01-risk-assessment/assessment-basis.md). The sponsor approves owners and actual dates before treatment begins.
 
 ## The findings, in one table
 
@@ -51,6 +67,8 @@ Twelve risks, scored Likelihood × Impact on a 1–5 scale.
 | R-12 | Incomplete inventory of vendors and business associate agreements | 9 | Moderate |
 
 **Remediation: roughly $4,000–7,000 in year one.** For comparison, the public OCR settlement that most closely matches this clinic's highest risk was $103,000 plus two years of federally monitored corrective action.
+
+These are scenario planning estimates. No remediation has been performed; actual residual risk is unassessed. The [five-priority management view](01-risk-assessment/management-priorities.md) preserves the detailed register and defines what evidence would be needed before crediting improvement.
 
 ---
 

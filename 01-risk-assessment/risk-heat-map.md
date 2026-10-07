@@ -64,13 +64,13 @@ Impact runs up the side. Likelihood runs along the bottom. Each cell shows the r
 
 ## Reading the shape
 
-**Nothing landed in Low.** That is a finding, not a scoring error. A clinic that has never completed a current risk analysis has, by definition, never deliberately reduced anything — so the register reflects a starting position, not a maintained programme. The comparison worth making is against the *next* assessment: after the roadmap's first two phases, most of these should move down and to the left, and some genuinely should end up in Low.
+**Nothing landed in Low under the scenario's assumptions.** That does not establish that all controls are absent or that the clinic has never reduced risk. The ratings describe the twelve selected scenarios, not the prevalence of all possible risks. Any movement after treatment requires implementation and effectiveness evidence.
 
 **The upper-left cluster is the expensive-but-unlikely group.** R-04, R-05 and R-06 all scored Very High impact with Moderate likelihood. These are the "it probably won't happen, and it will be very bad if it does" risks — the ones organisations reliably under-fund because nothing has gone wrong yet.
 
-**The lower-right cluster is the everyday group.** R-07, R-08 and R-09 scored High likelihood with Moderate impact. Each of these is probably happening already, quietly, without anyone noticing. They are also the cheapest to fix.
+**The lower-right cluster concerns everyday workflows.** R-07, R-08 and R-09 scored High likelihood with Moderate impact under the scenario assumptions. The rating does not establish that an actual disclosure or inappropriate access has occurred. Workflow changes, ownership and recurring review are proposed treatments; effort must be validated.
 
-**R-01 sits alone in the top right** because it is the one risk that is both near-certain and seriously damaging — and because it is the exact pattern that produced a real OCR settlement against a comparable provider in February 2026.
+**R-01 combines the highest assigned likelihood with High impact.** These are ordinal judgments, not a claim that compromise is certain. Historical enforcement examples provide context, not a prediction of Northgate's outcome.
 
 **R-02 is the one that makes the others count.** Even if every other risk here were fixed tomorrow, an absent or stale risk analysis is independently citable, and is the most common single finding in recent enforcement. It scores Very High on impact for that reason alone.
 

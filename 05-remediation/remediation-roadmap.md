@@ -15,7 +15,7 @@ It is also the document that satisfies **§164.308(a)(1)(ii)(B) risk management*
 
 **Sequencing logic.** Three principles drove the order:
 
-1. **Regulatory exposure first.** R-02 is the most-cited finding in recent enforcement and closing it takes a signature, not a budget.
+1. **Accountable risk management first.** Validate assessment scope and approve treatment ownership. A signature alone does not close R-02: the analysis must be accurate, maintained and used to manage risk.
 2. **Prerequisites before dependents.** Unique logins (R-03) must land before log review (R-09) can mean anything.
 3. **Impact reduction beats likelihood reduction where it's cheap.** Encryption reduces the *consequence* of an incident rather than its probability, and it does so sharply — which is why R-04 sits in Phase 1 despite being addressable rather than required.
 
@@ -139,7 +139,7 @@ The comparison is the argument. Not because a penalty is likely, but because the
 
 If only one thing happens this week: **1.1 and 1.2** — sign and date the risk analysis, and adopt this roadmap as the risk management plan.
 
-It costs nothing, takes an afternoon, and closes the gap most likely to turn an incident into an enforcement action.
+Approval starts accountable treatment; it does not establish that the assessment is accurate or the controls operate. Validate the inventory, assign owners and dates, and retain implementation and review evidence before reassessing R-02.
 
 ---
 
