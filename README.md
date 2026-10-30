@@ -1,4 +1,6 @@
-# Healthcare Security Risk Assessment
+# Northgate Behavioral Health — Healthcare Security Risk Assessment
+
+[Portfolio index](https://github.com/IAM-ZeroTrustRon/GRC-IAM-Portfolio) · **Repository role:** Fictional healthcare risk assessment.
 ### Northgate Behavioral Health Clinic — a HIPAA Security Rule risk assessment
 
 **Ron Richardson** · CompTIA Security+ · Per Scholas Cybersecurity
